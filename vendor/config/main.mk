@@ -13,9 +13,9 @@ PRODUCT_PACKAGES += \
     Seedvault
 
 # Aurora Store
-PRODUCT_PACKAGES += \
-    AuroraStore \
-    AuroraServices
+#PRODUCT_PACKAGES += \
+#    AuroraStore \
+#    AuroraServices
 
 # Fix for Google Camera
 PRODUCT_COPY_FILES += \
