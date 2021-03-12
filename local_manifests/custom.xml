@@ -13,5 +13,7 @@
   <project path="external/seedvault" name="seedvault" remote="seedvault-app" />
 
 	<!-- aurora store -->
-  <project path="prebuilts/aurorastore" name="ros-aurora-store" remote="personal-remote" clone-depth="1" />
+	<!--
+  <project path="prebuilts/aurorastore" name="ros-aurora-store" remote="personal-remote" clone-depth="1" revision="master" />
+	-->
 </manifest>
