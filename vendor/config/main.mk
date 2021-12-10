@@ -8,6 +8,10 @@ PRODUCT_PACKAGES += \
     FakeStore \
     com.google.android.maps.jar
 
+# 2-Button Navigation
+PRODUCT_PACKAGES += \
+    NavigationBarMode2ButtonOverlay
+
 # Seedvault
 PRODUCT_PACKAGES += \
     Seedvault
